@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="select_image">Pilih Gambar</string> <string name="gallery">Dari Galeri</string> <string name="camera">Dari Kamera</string> <string name="analyze">Analisis Gambar</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="image_preview_description">Pratinjau gambar yang akan dianalisis</string>
+    <string name="result_image_description">Gambar yang telah dianalisis</string>
+    <string name="classification_result_label">Hasil Klasifikasi:</string>
+    <string name="confidence_score_label">Tingkat Kepercayaan:</string>
+    <string name="empty_image_warning">Silakan pilih gambar terlebih dahulu.</string>
+    <string name="analysis_error">Terjadi kesalahan saat analisis.</string>
+    <string name="launch_screen_title">Asclepius</string>
+    <string name="launch_screen_subtitle">Deteksi Dini Kanker Kulit</string>
+    <string name="no_result_available">Hasil tidak tersedia</string>
+    <string name="back_button_description">Kembali</string>
+    <string name="image_cropped_successfully">Gambar berhasil dipotong</string>
+    <string name="image_crop_failed">Gagal memotong gambar</string>
+    <string name="no_image_selected">Tidak ada gambar yang dipilih</string>
+    <string name="permission_denied_camera">Izin kamera ditolak.</string>
+    <string name="failed_to_capture_image">Gagal mengambil gambar.</string>
+    <string name="select_image_source">Pilih Sumber Gambar</string>
+</resources>
